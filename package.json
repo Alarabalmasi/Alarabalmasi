@@ -1,0 +1,19 @@
+{
+  "name": "alarab-almasi-executive-os",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AL ARAB AL MASI — EXECUTIVE GROWTH OS | الوكيل الإداري والتنفيذي لمنظومة العرب الماسي",
+  "scripts": {
+    "start": "node --experimental-strip-types src/server/index.ts",
+    "snapshot": "node --experimental-strip-types src/cli/snapshot.ts",
+    "exec": "node --experimental-strip-types src/cli/executive.ts",
+    "exec:brief": "node --experimental-strip-types src/cli/executive.ts brief",
+    "exec:carts": "node --experimental-strip-types src/cli/executive.ts carts",
+    "exec:gate": "node --experimental-strip-types src/cli/executive.ts gate",
+    "test": "node --experimental-strip-types --test tests/*.test.ts"
+  },
+  "engines": {
+    "node": ">=22.6.0"
+  }
+}

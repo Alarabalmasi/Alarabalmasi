@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>العرب الماسي — AL ARAB AL MASI EXECUTIVE GROWTH OS</title>
+  <meta name="description" content="الوكيل الإداري التنفيذي لمنظومة العرب الماسي: غرفة القيادة، الربحية، السلات المتروكة، صفحات المنتجات الهجينة، وبوابة الجودة من 60 زاوية." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="os-shell">
+    <aside class="sidebar" aria-label="التنقل التنفيذي">
+      <div class="brand-header">
+        <div class="brand-mark" aria-hidden="true">ع م</div>
+        <div>
+          <div class="brand-title">العرب الماسي</div>
+          <div class="brand-sub">EXECUTIVE GROWTH OS</div>
+        </div>
+      </div>
+
+      <nav class="nav-list">
+        <button class="nav-btn active" data-view="command" id="nav-command">
+          <span>غرفة القيادة التنفيذية</span>
+          <small>البيانات الحية</small>
+        </button>
+        <button class="nav-btn" data-view="advisor" id="nav-advisor">
+          <span>الوكيل الإداري التنفيذي</span>
+          <small>22 تخصصاً</small>
+        </button>
+        <button class="nav-btn" data-view="profitability" id="nav-profitability">
+          <span>حاسبة الربحية وROAS</span>
+          <small>القسم 15</small>
+        </button>
+        <button class="nav-btn" data-view="carts" id="nav-carts">
+          <span>السلات المتروكة</span>
+          <small>القسم 17</small>
+        </button>
+        <button class="nav-btn" data-view="product" id="nav-product">
+          <span>كاتب المنتجات الهجين</span>
+          <small>SEO · GEO · CRO</small>
+        </button>
+        <button class="nav-btn" data-view="quality" id="nav-quality">
+          <span>بوابة الجودة (60 زاوية)</span>
+          <small>القسم 19 و20</small>
+        </button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="meta-line"><span>الإصدار</span><strong id="os-version">2026-11-27</strong></div>
+        <div class="meta-line"><span>المنصة</span><strong>زد (Zid) · Soft 1.0.0*</strong></div>
+        <div class="meta-line"><span>النطاق</span><strong>المملكة العربية السعودية · جدة</strong></div>
+        <a class="sheet-link" id="sheet-external-link" href="https://docs.google.com/spreadsheets/d/1GtRjDlzEBy62EOjMBV9Zeyuj5vS-aR_hxlPtK2M_e1w/edit" target="_blank" rel="noopener noreferrer">
+          فتح لوحة المتابعة في Google Sheets ↗
+        </a>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar">
+        <div>
+          <h1 id="page-title">غرفة القيادة التنفيذية — العرب الماسي</h1>
+          <p class="subtitle" id="sync-status-line">جارٍ قراءة اللقطة الحية من لوحة المتابعة التنفيذية...</p>
+        </div>
+        <div class="topbar-actions">
+          <span class="status-tag" id="connection-badge">جارٍ الفحص</span>
+          <button class="btn btn-secondary" id="btn-refresh-snapshot">تحديث حي من Google Sheets</button>
+        </div>
+      </header>
+
+      <!-- VIEW 1: غرفة القيادة -->
+      <section class="view-section active" id="view-command">
+        <div class="decision-banner" id="live-decision-banner">
+          <span class="decision-label">القرار التنفيذي الساري</span>
+          <p id="live-decision-text">—</p>
+        </div>
+
+        <div class="kpi-strip" id="command-kpis"></div>
+
+        <div class="two-col">
+          <article class="panel">
+            <div class="panel-head">
+              <h2>سجل المهام والمخاطر المفتوحة</h2>
+              <span class="muted">المصدر: تبويب المهام والمخاطر</span>
+            </div>
+            <div class="table-wrap">
+              <table class="data-table">
+                <thead>
+                  <tr>
+                    <th>المعرف</th>
+                    <th>النوع</th>
+                    <th>الأولوية</th>
+                    <th>البند</th>
+                    <th>المالك</th>
+                    <th>الحالة</th>
+                    <th>دليل الإغلاق</th>
+                  </tr>
+                </thead>
+                <tbody id="tasks-table-body"></tbody>
+              </table>
+            </div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <h2>الأدوات والتكاملات المتصلة</h2>
+              <span class="muted">فحص حقيقي للبيئة (القسم 4)</span>
+            </div>
+            <ul class="tools-list" id="tools-list"></ul>
+          </article>
+        </div>
+
+        <div class="two-col">
+          <article class="panel">
+            <div class="panel-head">
+              <h2>الفروع الأرضية المستقلة (جدة)</h2>
+              <span class="muted">استقلال تام للهوية والحسابات والمخزون والحملات</span>
+            </div>
+            <div class="branches-grid" id="branches-grid"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <h2>إثبات ربط مخزون زد المؤكد (18-11-2026)</h2>
+              <span class="muted">قراءة مباشرة على مستوى المتغير/المقاس</span>
+            </div>
+            <div class="table-wrap">
+              <table class="data-table">
+                <thead>
+                  <tr>
+                    <th>المنتج والمقاس</th>
+                    <th>SKU</th>
+                    <th>المتاح</th>
+                    <th>المستودع</th>
+                  </tr>
+                </thead>
+                <tbody id="zid-proof-body"></tbody>
+              </table>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- VIEW 2: الوكيل الإداري -->
+      <section class="view-section" id="view-advisor">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>توجيه المدير العام التنفيذي</h2>
+            <span class="muted">يناقش البدائل داخلياً عبر 22 تخصصاً ويعرض القرار والأدلة مباشرة (القسم 22)</span>
+          </div>
+          <div class="quick-prompts">
+            <button class="chip" data-prompt="أعطني الموجز التنفيذي الفوري وأهم أولويات العرب الماسي اليوم">الموجز التنفيذي اليوم</button>
+            <button class="chip" data-prompt="قيّم وضع الإعلانات وROAS وهل نرفع الميزانية الآن؟">تقييم الإعلانات وROAS</button>
+            <button class="chip" data-prompt="راجع أداء البحث SEO وCTR في Search Console وخطوات التحسين">خطة SEO وCTR</button>
+            <button class="chip" data-prompt="السلات المتروكة آخر 24 ساعة">السلات المتروكة (24 ساعة)</button>
+          </div>
+          <form id="advisor-form" class="advisor-form">
+            <textarea id="advisor-input" rows="3" placeholder="اكتب توجيهك أو سؤالك الإداري هنا... مثال: ما أول 3 إجراءات لحماية الربحية قبل إطلاق حملة الثياب؟"></textarea>
+            <div class="form-actions">
+              <button type="submit" class="btn btn-primary" id="btn-run-advisor">إصدار القرار التنفيذي</button>
+            </div>
+          </form>
+        </article>
+
+        <div id="advisor-output" class="advisor-output"></div>
+      </section>
+
+      <!-- VIEW 3: حاسبة الربحية -->
+      <section class="view-section" id="view-profitability">
+        <div class="two-col">
+          <article class="panel">
+            <div class="panel-head">
+              <h2>مدخلات الربحية والإسناد (القسم 15)</h2>
+              <span class="muted">اترك أي حقل غير متوفر فارغاً — لا نعتبر الناقص صفراً أبداً</span>
+            </div>
+            <form id="profit-form" class="field-grid">
+              <label>عدد الطلبات المؤكدة (زد)<input type="number" step="any" name="orders" placeholder="مثال: 45" /></label>
+              <label>عدد الجلسات (GA4)<input type="number" step="any" name="sessions" placeholder="مثال: 2200" /></label>
+              <label>صافي إيراد الطلبات (ر.س)<input type="number" step="any" name="netOrderRevenue" placeholder="بعد الخصم والمرتجعات" /></label>
+              <label>الإنفاق الإعلاني (ر.س)<input type="number" step="any" name="adSpend" placeholder="مثال: 2000" /></label>
+              <label>الطلبات المنسوبة للإعلان<input type="number" step="any" name="attributedOrders" placeholder="مثال: 30" /></label>
+              <label>الإيراد المنسوب للإعلان (ر.س)<input type="number" step="any" name="attributedRevenue" placeholder="مثال: 7500" /></label>
+              <label>تكلفة البضاعة COGS (ر.س)<input type="number" step="any" name="cogs" placeholder="التكلفة الفعلية" /></label>
+              <label>تكلفة الشحن (ر.س)<input type="number" step="any" name="shippingCost" placeholder="اختياري" /></label>
+              <label>رسوم بوابات الدفع (ر.س)<input type="number" step="any" name="paymentFees" placeholder="اختياري" /></label>
+              <label>إجمالي تكلفة الاكتساب (ر.س)<input type="number" step="any" name="acquisitionCost" placeholder="لحساب CAC" /></label>
+              <label>عدد العملاء الجدد<input type="number" step="any" name="newCustomers" placeholder="لحساب CAC" /></label>
+              <label>النقرات (Clicks)<input type="number" step="any" name="clicks" placeholder="لحساب CTR" /></label>
+              <label>مرات الظهور (Impressions)<input type="number" step="any" name="impressions" placeholder="لحساب CTR" /></label>
+              <label>هدف ROAS الإداري<input type="number" step="0.1" name="adminRoasTarget" value="3.0" /></label>
+              <div class="field-full form-actions">
+                <button type="submit" class="btn btn-primary">حساب المؤشرات ونقطة التعادل</button>
+              </div>
+            </form>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <h2>التقييم الاقتصادي وقرار التوسع</h2>
+              <span class="muted">المعيار: Break-even ROAS + هامش المساهمة الفعلي</span>
+            </div>
+            <div id="profit-output" class="empty-state">أدخل البيانات الفعلية المتوفرة لحساب CVR وAOV وCPA وCAC وROAS وBreak-even ROAS.</div>
+          </article>
+        </div>
+      </section>
+
+      <!-- VIEW 4: السلات المتروكة -->
+      <section class="view-section" id="view-carts">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>مهارة السلات المتروكة التلقائية (القسم 17)</h2>
+            <span class="status-tag tag-warn">الإرسال التلقائي مقفل — يتطلب موافقتك</span>
+          </div>
+          <div class="carts-controls">
+            <label>النافذة الزمنية (حسب created_at بتوقيت الرياض)
+              <select id="cart-window-hours">
+                <option value="6">آخر 6 ساعات</option>
+                <option value="12">آخر 12 ساعة</option>
+                <option value="24" selected>آخر 24 ساعة</option>
+                <option value="72">آخر 72 ساعة</option>
+              </select>
+            </label>
+            <label>عدد السلات المطلوبة
+              <input type="number" id="cart-limit" value="3" min="1" max="20" />
+            </label>
+            <div class="carts-btns">
+              <button type="button" class="btn btn-primary" id="btn-fetch-live-carts">سحب السلات الحية من زد</button>
+              <button type="button" class="btn btn-secondary" id="btn-process-manual-carts">تجهيز رسائل السلات المدخلة أدناه</button>
+            </div>
+          </div>
+
+          <details class="manual-carts-box">
+            <summary>إدخال سلات مسحوبة من لوحة زد يدوياً للتجهيز الفوري (عند غياب مفاتيح Zid API محلياً)</summary>
+            <p class="muted">أدخل مصفوفة JSON بالحقول الحقيقية: cartId, createdAt, customerName, customerPhone, productName, size, checkoutUrl</p>
+            <textarea id="manual-carts-json" rows="6" placeholder='[{"cartId":"C-101","createdAt":"2026-11-27T11:30:00+03:00","customerName":"فهد العتيبي","customerPhone":"05XXXXXXXX","productName":"ثوب كلاسيك أبيض","size":"58","checkoutUrl":"https://alarabalmasi.com/checkout/..."}]'></textarea>
+          </details>
+        </article>
+
+        <div id="carts-output" class="carts-output"></div>
+      </section>
+
+      <!-- VIEW 5: كاتب المنتجات الهجين -->
+      <section class="view-section" id="view-product">
+        <div class="two-col">
+          <article class="panel">
+            <div class="panel-head">
+              <h2>مواصفات المنتج المثبتة (القسم 10)</h2>
+              <span class="muted">لا يُختلق أي قماش أو تفصيلة — كل حقل ناقص يُوسم للتحقق</span>
+            </div>
+            <form id="product-form" class="field-grid">
+              <label class="field-full">اسم المنتج بالعربية *<input type="text" name="productNameAr" required placeholder="مثال: ثوب العرب الماسي الرسمي أبيض" /></label>
+              <label>اسم المنتج بالإنجليزية<input type="text" name="productNameEn" placeholder="Al Arab Al Masi Classic White Thobe" /></label>
+              <label>الفئة
+                <select name="category">
+                  <option value="thobe">ثوب رجالي (350–500 كلمة)</option>
+                  <option value="shoes">حذاء رجالي</option>
+                  <option value="jalabiya">جلابية مغربية رجالية</option>
+                  <option value="shemagh">شماغ ومستلزمات</option>
+                  <option value="accessory">إكسسوارات</option>
+                  <option value="other">أخرى</option>
+                </select>
+              </label>
+              <label>SKU (من زد)<input type="text" name="sku" placeholder="Z.652101..." /></label>
+              <label>السعر (ر.س)<input type="number" step="any" name="priceSar" placeholder="من زد مباشرة" /></label>
+              <label>اللون المثبت<input type="text" name="color" placeholder="أبيض / أسود / سكري..." /></label>
+              <label>القماش / الخامة المثبتة<input type="text" name="fabric" placeholder="يُترك فارغاً إذا غير مؤكد" /></label>
+              <label>الياقة<input type="text" name="collarType" placeholder="سادة / قلاب / كويتي..." /></label>
+              <label>الأكمام<input type="text" name="sleeveType" placeholder="سادة / كبك..." /></label>
+              <label>الإغلاق<input type="text" name="closureType" placeholder="سحاب مخفي / أزرار..." /></label>
+              <label>عدد الصور<input type="number" name="imageCount" value="3" min="1" max="6" /></label>
+              <label class="field-full">المقاسات المتوفرة (مفصولة بفاصلة)<input type="text" name="availableSizes" placeholder="54, 56, 58, 60" /></label>
+              <label class="field-full">مزايا مثبتة من العينة/المورد (سطر لكل ميزة)<textarea name="verifiedFeatures" rows="3" placeholder="ثبات في الكوي&#10;خياطة متقنة على الياقة"></textarea></label>
+              <div class="field-full form-actions">
+                <button type="submit" class="btn btn-primary">توليد حزمة الصفحة الهجينة (SEO/GEO/CRO)</button>
+              </div>
+            </form>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <h2>مخرج الصفحة الهجينة</h2>
+              <span class="muted">العناوين · الوصف · الجدول · FAQ · ALT · JSON-LD</span>
+            </div>
+            <div id="product-output" class="empty-state">أدخل المواصفات المثبتة لتوليد صفحة منتج كاملة جاهزة للنشر على زد.</div>
+          </article>
+        </div>
+      </section>
+
+      <!-- VIEW 6: بوابة الجودة من 60 زاوية -->
+      <section class="view-section" id="view-quality">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>بوابة الجودة من 60 زاوية تخصصية + معايير الإتقان العشرة (القسم 19 و20)</h2>
+            <div class="quality-actions">
+              <button type="button" class="btn btn-primary" id="btn-evaluate-gate">احتساب نتيجة البوابة</button>
+            </div>
+          </div>
+          <div id="quality-summary" class="quality-summary"></div>
+          <div id="mastery-grid" class="mastery-grid"></div>
+        </article>
+        <div id="quality-domains-list" class="quality-domains-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
