@@ -11,6 +11,8 @@
     "exec:brief": "node --experimental-strip-types src/cli/executive.ts brief",
     "exec:carts": "node --experimental-strip-types src/cli/executive.ts carts",
     "exec:gate": "node --experimental-strip-types src/cli/executive.ts gate",
+    "wp:enhance": "node --experimental-strip-types src/cli/wp-publish.ts --dry-run",
+    "wp:publish": "node --experimental-strip-types src/cli/wp-publish.ts",
     "test": "node --experimental-strip-types --test tests/*.test.ts"
   },
   "engines": {
