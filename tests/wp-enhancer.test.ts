@@ -19,7 +19,16 @@ test('enhances all 11 WordPress posts with zero missing ALTs, valid headings, Ma
     assert.ok(post.metricsAfter.storeLinksCount >= 3, `Post ${post.id} must have deep store links`);
     assert.equal(post.metricsAfter.hasWhatsApp, true, `Post ${post.id} missing WhatsApp link`);
     assert.equal(post.metricsAfter.hasMaps, true, `Post ${post.id} missing Google Maps link`);
+    assert.equal(post.metricsAfter.hasGeoDirectAnswer, true, `Post ${post.id} missing GEO summary`);
+    assert.equal(post.metricsAfter.hasComparisonTable, true, `Post ${post.id} missing comparison table`);
+    assert.ok(Array.isArray((post.schemaJsonLd as any)['@graph']), `Post ${post.id} missing JSON-LD @graph`);
   }
+
+  const branchPost = enhanced.find((p) => p.id === 465)!;
+  assert.ok(
+    (branchPost.schemaJsonLd as any)['@graph'].some((g: any) => g['@type'] === 'ClothingStore'),
+    'Branch post 465 must include ClothingStore schema',
+  );
 
   const p572 = enhanced.find((p) => p.id === 572)!;
   assert.ok(!/(?:^|>|\s)ختر الثوب الجاهز/.test(p572.htmlContent), 'Typo in post 572 must be fixed');

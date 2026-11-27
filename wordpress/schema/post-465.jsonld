@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "مركز السالم للمستلزمات الرجالية بحي السامر جدة | العنوان والموقع وأوقات العمل",
+      "description": "موقع وأوقات عمل مركز السالم للمستلزمات الرجالية بحي السامر جدة أمام قاعة الرفيدي: ثوب العرب الجاهز، الأشمغة الأصلية، المشالح، واتساب 0539939530 واستلام الأونلاين.",
+      "inLanguage": "ar-SA",
+      "mainEntityOfPage": "https://alarabmsa19.wordpress.com/2026/08/24/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%ac%d8%af%d8%a9/",
+      "datePublished": "2026-08-24T04:48:09",
+      "dateModified": "2026-11-27",
+      "keywords": "مركز السالم للمستلزمات الرجالية جدة, محل ثياب حي السامر جدة, ثوب العرب جدة السامر, أشمغة أصلية حي السامر جدة, استلام طلبات العرب الماسي جدة, السالم للمستلزمات الرجالية, ثوب العرب, ثوب جاهز, مشلح اسود ذهبي",
+      "author": {
+        "@type": "Organization",
+        "name": "العرب الماسي",
+        "url": "https://alarabalmasi.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "مؤسسة العرب الماسي للتجارة",
+        "url": "https://alarabalmasi.com/"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "أين يقع مركز السالم للمستلزمات الرجالية في جدة بالضبط؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "يقع في شرق جدة بحي السامر على شارع وهيب بن عمير، أمام قاعة الرفيدي مباشرة، ويمكنك فتح الموقع في خرائط Google أو التواصل عبر واتساب الفرع 0539939530."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "هل يمكن استلام أو استبدال طلبات متجر العرب الماسي الإلكتروني من مركز السالم؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "نعم، مركز السالم بحي السامر هو الفرع المعتمد لاستلام واستبدال طلبات متجر العرب الماسي الإلكتروني بعد تأكيد الجاهزية وتوفر البديل."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ما أوقات عمل مركز السالم بحي السامر؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "السبت والأربعاء والخميس من 9:30 صباحاً حتى 12 منتصف الليل، والأحد والاثنين والثلاثاء على فترتين حتى 12 منتصف الليل، والجمعة من 4 عصراً حتى 12 منتصف الليل."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ClothingStore",
+      "name": "مركز السالم للمستلزمات الرجالية — حي السامر، جدة",
+      "url": "https://alarabalmasi.com/pages/alsalem-menswear-jeddah",
+      "telephone": "+966539939530",
+      "hasMap": "https://maps.app.goo.gl/Uf5xzkMGYXrNcyy57?g_st=ic",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "جدة، حي السامر، شارع وهيب بن عمير، أمام قاعة الرفيدي مباشرة",
+        "addressLocality": "جدة",
+        "addressCountry": "SA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.589247861474387,
+        "longitude": 39.23759110271931
+      },
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": "العرب الماسي",
+        "url": "https://alarabalmasi.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "مركز الدفة سوق المرجان بجدة (بوابة 2 محل 205) | ثياب وجلابيات مغربية وهدايا",
+      "description": "دليل مركز الدفة للمستلزمات الرجالية داخل سوق المرجان بحي الصفا جدة بوابة 2 محل 205: ثياب رجالية وولادية، جلابيات مغربية، مشالح وأطقم هدايا. واتساب 0558977126.",
+      "inLanguage": "ar-SA",
+      "mainEntityOfPage": "https://alarabmsa19.wordpress.com/2026/08/24/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%af%d9%81%d8%a9-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%a8%d8%ac%d8%af%d8%a9-%d8%a3%d9%81%d8%ae%d9%85-%d9%85%d8%ad%d9%84-%d9%85/",
+      "datePublished": "2026-08-24T05:12:21",
+      "dateModified": "2026-11-27",
+      "keywords": "مركز الدفة سوق المرجان جدة, محل مستلزمات رجالية سوق المرجان بوابة 2, جلابيات مغربية رجالية جدة سوق المرجان, ثياب رجالية حي الصفا جدة, هدايا رجالية جدة الصفا, جلابية مغربية رجالية, جلابيات مغربية رجالية فاخرة, هدايا رجالية جدة, شراقي",
+      "author": {
+        "@type": "Organization",
+        "name": "العرب الماسي",
+        "url": "https://alarabalmasi.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "مؤسسة العرب الماسي للتجارة",
+        "url": "https://alarabalmasi.com/"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "كيف أصل إلى مركز الدفة داخل سوق المرجان في جدة؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ادخل من بوابة 2 في سوق المرجان بحي الصفا بجدة وتوجّه مباشرة إلى محل رقم 205، أو افتح الموقع على خرائط Google وتواصل على واتساب الفرع 0558977126."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "هل تتوفر الجلابيات المغربية الرجالية وأطقم الهدايا في فرع سوق المرجان؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "نعم، يجمع الفرع بين الثياب الجاهزة والجلابيات المغربية والمشالح والشرقيات وأطقم الهدايا، كما يمكنك تصفح التشكيلة المتاحة للشحن عبر متجر العرب الماسي الإلكتروني."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "هل يمكن الطلب أونلاين مع التوصيل لجميع مدن المملكة؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "نعم، عبر alarabalmasi.com مع شحن مجاني للطلبات من 195 ريال بعد الخصم وتقسيط على 4 دفعات عبر تمارا."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ClothingStore",
+      "name": "مركز الدفة للمستلزمات الرجالية — سوق المرجان، جدة",
+      "url": "https://alarabalmasi.com/pages/aldaffah-al-safa-marjan-jeddah",
+      "telephone": "+966558977126",
+      "hasMap": "https://www.google.com/maps/place/21.5802312,39.2233659",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "جدة، حي الصفا، داخل سوق المرجان، بوابة 2، محل رقم 205",
+        "addressLocality": "جدة",
+        "addressCountry": "SA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5802312,
+        "longitude": 39.2233659
+      },
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": "العرب الماسي",
+        "url": "https://alarabalmasi.com/"
+      }
+    }
+  ]
+}

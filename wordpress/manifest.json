@@ -4,15 +4,23 @@
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/10/14/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
     "slug": "%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9",
     "originalTitle": "دليل المستلزمات الرجالية في السعودية | العرب الماسي",
-    "improvedTitle": "دليل المستلزمات الرجالية في السعودية 2026 | متجر العرب الماسي وفروع جدة",
-    "seoTitle": "دليل المستلزمات الرجالية في السعودية | العرب الماسي جدة",
-    "metaDescription": "دليلك الشامل لشراء الثوب السعودي والأشمغة والغتر والجلابيات والهدايا الرجالية أونلاين من متجر العرب الماسي أو عبر معارضنا الثلاثة في جدة (السامر وسوق المرجان).",
+    "improvedTitle": "دليل المستلزمات الرجالية في السعودية 2026 | متجر العرب الماسي ومعارض جدة",
+    "seoTitle": "دليل المستلزمات الرجالية في السعودية 2026 | العرب الماسي",
+    "metaDescription": "مرجعك الشامل لشراء الثياب السعودية، الجلابيات المغربية والإماراتية، الأشمغة، المشالح، الشراقي والهدايا الرجالية من متجر العرب الماسي وفروعه الثلاثة في جدة.",
     "focusKeywords": [
       "دليل المستلزمات الرجالية في السعودية",
       "متجر مستلزمات رجالية سعودي",
       "متجر العرب الماسي ثياب وأشمغة",
-      "محلات مستلزمات رجالية في جدة"
+      "جلابيات مغربية واماراتية رجالية السعودية"
     ],
+    "gscBackedKeywords": [
+      "العرب الماسي",
+      "جلابية مغربية رجالية",
+      "جلابية اماراتي رجالي",
+      "ثوب العرب",
+      "شراقي"
+    ],
+    "canonicalRole": "مقال محوري شامل (Pillar Hub) على ووردبريس يربط كل تصنيفات alarabalmasi.com دون تكرار صورة 612.",
     "featuredImagePlan": {
       "needsUpload": true,
       "localFilename": "saudi-occasion-look-guide.jpg",
@@ -22,7 +30,9 @@
       "note": "استبدال الصورة المكررة featured_media=612 (المستخدمة أيضاً في مقال الهدايا 610) بصورة مخصصة لهذا الدليل."
     },
     "fixesApplied": [
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO).",
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف.",
       "تجهيز صورة غلاف تحريرية جديدة (saudi-menswear-guide-alarabalmasi.webp) مع ALT عربي وإنجليزي (استبدال الصورة المكررة featured_media=612 (المستخدمة أيضاً في مقال الهدايا 610) بصورة مخصصة لهذا الدليل.)."
     ],
     "metricsBefore": {
@@ -32,33 +42,46 @@
       "missingAltCount": 0,
       "storeLinksCount": 5,
       "hasWhatsApp": false,
-      "hasMaps": false
+      "hasMaps": false,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": false
     },
     "metricsAfter": {
-      "h2Count": 12,
-      "h3Count": 12,
+      "h2Count": 13,
+      "h3Count": 13,
       "imgCount": 0,
       "missingAltCount": 0,
       "storeLinksCount": 15,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-780.html"
+    "htmlFile": "wordpress/articles/post-780.html",
+    "schemaFile": "wordpress/schema/post-780.jsonld"
   },
   {
     "id": 782,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/10/14/%d9%82%d8%a8%d9%84-%d8%a3%d9%86-%d8%aa%d8%b4%d8%aa%d8%b1%d9%8a-%d8%a7%d9%84%d8%ab%d9%88%d8%a8-%d9%88%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d8%ba-%d9%88%d8%a7%d9%84%d9%87%d8%af%d9%8a%d8%a9-%d8%af%d9%84%d9%8a/",
     "slug": "%d9%82%d8%a8%d9%84-%d8%a3%d9%86-%d8%aa%d8%b4%d8%aa%d8%b1%d9%8a-%d8%a7%d9%84%d8%ab%d9%88%d8%a8-%d9%88%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d8%ba-%d9%88%d8%a7%d9%84%d9%87%d8%af%d9%8a%d8%a9-%d8%af%d9%84%d9%8a",
     "originalTitle": "قبل أن تشتري الثوب والشماغ والهدية دليل اختيار المستلزمات الرجالية من العرب الماسي",
-    "improvedTitle": "قبل أن تشتري الثوب والشماغ والهدية: الدليل الكامل من العرب الماسي",
-    "seoTitle": "دليل شراء الثوب والشماغ والهدية الرجالية | العرب الماسي",
-    "metaDescription": "مرجع شامل قبل شراء الثوب السعودي والشماغ وأطقم الهدايا الرجالية من العرب الماسي: المقاسات، الموديلات، روابط الفروع المعتمدة في جدة، الشحن المجاني وتمارا.",
+    "improvedTitle": "قبل أن تشتري الثوب والشماغ والهدية: الدليل الشامل من العرب الماسي 2026",
+    "seoTitle": "قبل شراء الثوب والشماغ والهدية الرجالية | دليل العرب الماسي",
+    "metaDescription": "قائمة فحص عملية قبل شراء الثوب السعودي والشماغ والجلابية والهدية الرجالية من العرب الماسي: تجنب أخطاء المقاس والياقة والموديل مع روابط المتجر وفروع جدة.",
     "focusKeywords": [
       "دليل شراء الثوب والشماغ السعودية",
-      "كيف تختار شماغ وثوب رجالي",
-      "هدايا رجالية سعودية أونلاين",
+      "نصائح قبل شراء ثوب جاهز أونلاين",
+      "كيف تختار شماغ وثوب وهدية رجالية",
       "متجر العرب الماسي الرسمي"
     ],
+    "gscBackedKeywords": [
+      "ثوب العرب",
+      "ثوب جاهز",
+      "جلابية مغربية رجالية",
+      "هدايا رجالية جدة",
+      "جدول مقاسات الثوب السعودي"
+    ],
+    "canonicalRole": "دليل قرار الشراء العميق (1,790+ كلمة) يربط القارئ المتردد مباشرة بالمنتجات الأكثر بحثاً وسياسة الاستبدال المجاني.",
     "featuredImagePlan": {
       "needsUpload": false,
       "localFilename": null,
@@ -68,7 +91,9 @@
       "note": "يحتفظ بـ featured_media=789 مع توحيد روابط الخرائط والواتساب للفروع الثلاثة."
     },
     "fixesApplied": [
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO)."
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف."
     ],
     "metricsBefore": {
       "h2Count": 9,
@@ -77,46 +102,61 @@
       "missingAltCount": 0,
       "storeLinksCount": 18,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": false
     },
     "metricsAfter": {
-      "h2Count": 12,
+      "h2Count": 13,
       "h3Count": 21,
       "imgCount": 0,
       "missingAltCount": 0,
       "storeLinksCount": 28,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-782.html"
+    "htmlFile": "wordpress/articles/post-782.html",
+    "schemaFile": "wordpress/schema/post-782.jsonld"
   },
   {
     "id": 766,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/10/10/%d8%b9%d9%86%d8%af%d9%83-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a9%d8%9f-%d8%ac%d9%87%d9%91%d8%b2-%d8%a5%d8%b7%d9%84%d8%a7%d9%84%d8%aa%d9%83-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%af%d9%88/",
     "slug": "%d8%b9%d9%86%d8%af%d9%83-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a9%d8%9f-%d8%ac%d9%87%d9%91%d8%b2-%d8%a5%d8%b7%d9%84%d8%a7%d9%84%d8%aa%d9%83-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%af%d9%88",
     "originalTitle": "عندك مناسبة؟ جهّز إطلالتك السعودية دون حيرة مع العرب الماسي",
-    "improvedTitle": "عندك مناسبة؟ دليل تجهيز الإطلالة السعودية الكاملة بدون حيرة | العرب الماسي",
-    "seoTitle": "تجهيز إطلالة المناسبات السعودية: ثوب وشماغ وحذاء | العرب الماسي",
-    "metaDescription": "دليل عملي لتجهيز إطلالتك السعودية للمناسبات من متجر العرب الماسي وفروعه الثلاثة في جدة: اختيار الثوب والمقاس والشماغ والمشلح والحذاء الشرقي بخطوات واضحة.",
+    "improvedTitle": "عندك مناسبة؟ دليل تجهيز الإطلالة السعودية الكاملة (ثوب وشماغ ومشلح وشراقي)",
+    "seoTitle": "تجهيز إطلالة المناسبات السعودية: ثوب ومشلح وشماغ وشراقي | العرب الماسي",
+    "metaDescription": "دليل عملي لتجهيز إطلالتك السعودية للمناسبات من العرب الماسي: تنسيق الثوب القلاب أو المطرز مع الشماغ والمشلح الأسود الذهبي والشراقي، مع دليل المقاسات وفروع جدة.",
     "focusKeywords": [
       "تجهيز إطلالة المناسبات السعودية",
       "تنسيق الثوب والشماغ للمناسبات",
-      "متجر مستلزمات رجالية السعودية",
-      "شراء ثوب وشماغ أونلاين السعودية",
-      "فروع العرب الماسي جدة"
+      "ثوب مطرز رجالي للمناسبات",
+      "مشلح اسود ذهبي السعودية",
+      "شراء ثوب وشماغ أونلاين السعودية"
     ],
+    "gscBackedKeywords": [
+      "ثوب مطرز رجالي",
+      "مشلح اسود ذهبي",
+      "شراقي",
+      "ثوب جاهز",
+      "جدول مقاسات الثوب السعودي"
+    ],
+    "canonicalRole": "دليل إطلالة المناسبات (Top-of-Funnel) يوزّع الزيارات إلى صفحات الثياب المطرزة والمشالح والشراقي.",
     "featuredImagePlan": {
       "needsUpload": true,
       "localFilename": "saudi-occasion-look-guide.jpg",
       "seoFilename": "saudi-occasion-look-guide.webp",
       "altAr": "تنسيق تحريري لإطلالة سعودية رسمية تضم ثوباً أبيض وشماغاً وحذاءً شرقياً وسبحة وقلماً — العرب الماسي",
       "altEn": "Editorial flat-lay of a complete formal Saudi men outfit with white thobe, shemagh, black dress shoes, misbaha, and pen - Al Arab Al Masi",
-      "note": "صورة غلاف/داخلية تحريرية لتعزيز الجاذبية البصرية (المقال كان بلا صور داخلية وبلا عناوين H2)."
+      "note": "صورة غلاف تحريرية تعزز التفاعل البصري لمقال 766."
     },
     "fixesApplied": [
       "ترقية 17 عنواناً إلى وسوم H2/H3 الدلالية (Gutenberg) لتحسين هيكلة SEO وسهولة القراءة على الجوال.",
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO).",
-      "تجهيز صورة غلاف تحريرية جديدة (saudi-occasion-look-guide.webp) مع ALT عربي وإنجليزي (صورة غلاف/داخلية تحريرية لتعزيز الجاذبية البصرية (المقال كان بلا صور داخلية وبلا عناوين H2).)."
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف.",
+      "تجهيز صورة غلاف تحريرية جديدة (saudi-occasion-look-guide.webp) مع ALT عربي وإنجليزي (صورة غلاف تحريرية تعزز التفاعل البصري لمقال 766.)."
     ],
     "metricsBefore": {
       "h2Count": 0,
@@ -125,18 +165,23 @@
       "missingAltCount": 0,
       "storeLinksCount": 8,
       "hasWhatsApp": false,
-      "hasMaps": false
+      "hasMaps": false,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": false
     },
     "metricsAfter": {
-      "h2Count": 15,
+      "h2Count": 16,
       "h3Count": 10,
       "imgCount": 0,
       "missingAltCount": 0,
       "storeLinksCount": 18,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-766.html"
+    "htmlFile": "wordpress/articles/post-766.html",
+    "schemaFile": "wordpress/schema/post-766.jsonld"
   },
   {
     "id": 623,
@@ -144,24 +189,33 @@
     "slug": "%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%af%d8%a9-%d8%af%d9%84%d9%8a%d9%84-%d9%81%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%b3%d8%a7%d9%85",
     "originalTitle": "مستلزمات رجالية في جدة: دليل فروع السامر وسوق المرجان",
     "improvedTitle": "مستلزمات رجالية في جدة: دليل فروع حي السامر وسوق المرجان | العرب الماسي",
-    "seoTitle": "فروع العرب الماسي في جدة: السالم والدفة (السامر والمرجان)",
-    "metaDescription": "مقارنة واضحة بين فروع العرب الماسي الثلاثة في جدة (مركز السالم السامر، مركز الدفة السامر، مركز الدفة سوق المرجان بوابة 2 محل 205) مع روابط الخرائط وأرقام الواتساب.",
+    "seoTitle": "فروع العرب الماسي في جدة: السالم والدفة (حي السامر وسوق المرجان)",
+    "metaDescription": "مقارنة واضحة بين معارض العرب الماسي الثلاثة في جدة (مركز السالم حي السامر، مركز الدفة حي السامر، مركز الدفة سوق المرجان بوابة 2 محل 205) مع الخرائط والواتساب.",
     "focusKeywords": [
       "فروع العرب الماسي في جدة",
       "مستلزمات رجالية حي السامر جدة",
       "محل ثياب سوق المرجان جدة",
       "مركز السالم والدفة جدة"
     ],
+    "gscBackedKeywords": [
+      "السالم للمستلزمات الرجالية",
+      "العرب الماسي",
+      "هدايا رجالية جدة",
+      "ثوب جاهز"
+    ],
+    "canonicalRole": "دليل المقارنة المحلي لمدينة جدة يغذي صفحة /pages/branches وصفحات الفروع الثلاثة دون خلط جغرافي.",
     "featuredImagePlan": {
       "needsUpload": false,
       "localFilename": null,
       "seoFilename": null,
       "altAr": "فروع العرب الماسي للمستلزمات الرجالية في جدة: السالم والدفة",
       "altEn": "Al Arab Al Masi menswear branches in Jeddah Al Samer and Al Marjan",
-      "note": "يحتفظ بـ featured_media=625 مع إضافة روابط الواتساب الرسمية وتفاصيل استقلال كل فرع."
+      "note": "يحتفظ بـ featured_media=625 مع إضافة جدول التمييز وروابط الواتساب الرسمية."
     },
     "fixesApplied": [
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO)."
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف."
     ],
     "metricsBefore": {
       "h2Count": 6,
@@ -170,33 +224,46 @@
       "missingAltCount": 0,
       "storeLinksCount": 6,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": true
     },
     "metricsAfter": {
-      "h2Count": 9,
+      "h2Count": 10,
       "h3Count": 10,
       "imgCount": 0,
       "missingAltCount": 0,
       "storeLinksCount": 15,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-623.html"
+    "htmlFile": "wordpress/articles/post-623.html",
+    "schemaFile": "wordpress/schema/post-623.jsonld"
   },
   {
     "id": 610,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/09/22/%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d9%87%d8%af%d9%8a%d8%a9-%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d9%82%d9%84%d9%85-%d9%88%d8%b3%d8%a8%d8%ad%d8%a9-%d9%88%d9%85%d8%ad%d9%81/",
     "slug": "%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d9%87%d8%af%d9%8a%d8%a9-%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d9%82%d9%84%d9%85-%d9%88%d8%b3%d8%a8%d8%ad%d8%a9-%d9%88%d9%85%d8%ad%d9%81",
     "originalTitle": "كيف تختار هدية رجالية من قلم وسبحة ومحفظة؟",
-    "improvedTitle": "كيف تختار هدية رجالية فخمة من قلم وسبحة ومحفظة؟ دليل التنسيق والشراء",
+    "improvedTitle": "كيف تختار هدية رجالية فخمة (قلم وسبحة ومحفظة)؟ دليل الإهداء في السعودية وجدة",
     "seoTitle": "هدايا رجالية فخمة (قلم وسبحة ومحفظة) في جدة والسعودية | العرب الماسي",
-    "metaDescription": "دليل عملي لتنسيق هدية رجالية راقية من قلم وسبحة ومحفظة وساعة في السعودية، مع روابط أطقم الهدايا في العرب الماسي ومعارض جدة الثلاثة.",
+    "metaDescription": "أفكار ودليل عملي لاختيار هدية رجالية راقية للأب أو الزوج أو الأخ أو المدير (قلم، سبحة، محفظة، ساعة، شماغ) بدون حيرة المقاس، من العرب الماسي ومعارض جدة.",
     "focusKeywords": [
       "هدايا رجالية فخمة السعودية",
+      "هدايا رجالية جدة",
       "طقم قلم وسبحة ومحفظة رجالي",
-      "محل هدايا رجالية جدة",
+      "أفكار هدايا رجالية بدون مقاس",
       "أطقم هدايا رجالية العرب الماسي"
     ],
+    "gscBackedKeywords": [
+      "هدايا رجالية جدة",
+      "مشلح اسود ذهبي",
+      "شماغ المراسيم",
+      "العرب الماسي"
+    ],
+    "canonicalRole": "دليل الإهداء الرجالي المستلهم من نية البحث السعودية (حسب المُهدى إليه وبلا مقاس) يغذي تصنيف الساعات والهدايا.",
     "featuredImagePlan": {
       "needsUpload": false,
       "localFilename": null,
@@ -206,7 +273,9 @@
       "note": "يحتفظ بـ featured_media=612 مع إزالة تكرارها من المقال 780."
     },
     "fixesApplied": [
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO)."
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف."
     ],
     "metricsBefore": {
       "h2Count": 7,
@@ -215,43 +284,55 @@
       "missingAltCount": 0,
       "storeLinksCount": 2,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": true
     },
     "metricsAfter": {
-      "h2Count": 10,
-      "h3Count": 7,
+      "h2Count": 11,
+      "h3Count": 8,
       "imgCount": 0,
       "missingAltCount": 0,
       "storeLinksCount": 11,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-610.html"
+    "htmlFile": "wordpress/articles/post-610.html",
+    "schemaFile": "wordpress/schema/post-610.jsonld"
   },
   {
     "id": 597,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/09/22/%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%b3%d9%83%d8%b1%d8%a7%d8%a8%d9%8b%d8%a7-%d8%b7%d8%a8%d9%8a%d9%8b%d8%a7-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%8b%d8%a7-%d9%84%d9%84%d8%af%d9%88%d8%a7/",
     "slug": "%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%b3%d9%83%d8%b1%d8%a7%d8%a8%d9%8b%d8%a7-%d8%b7%d8%a8%d9%8a%d9%8b%d8%a7-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%8b%d8%a7-%d9%84%d9%84%d8%af%d9%88%d8%a7",
     "originalTitle": "كيف تختار سكرابًا طبيًا مناسبًا للدوام؟",
-    "improvedTitle": "كيف تختار سكراب طبي مريح للدوام الطويل؟ دليل المقاس والخامة والجيوب",
+    "improvedTitle": "كيف تختار سكراب طبي مريح للدوام الطويل؟ دليل المقاس والخامة والجيوب في السعودية",
     "seoTitle": "دليل اختيار السكراب الطبي للدوام في السعودية | العرب الماسي",
-    "metaDescription": "نصائح عملية لاختيار السكراب الطبي الرجالي والنسائي المريح لساعات الدوام الطويلة في السعودية مع رابط الطلب المباشر من العرب الماسي وخدمة العملاء.",
+    "metaDescription": "كيف تختار سكراباً طبياً رجالياً أو نسائياً مريحاً للمناوبات الطويلة في السعودية: المقاس، حرية الحركة، توزيع الجيوب، مع رابط الطلب من العرب الماسي وأول استبدال مجاني.",
     "focusKeywords": [
       "سكراب طبي مريح السعودية",
       "سكراب طبي رجالي ونسائي جدة",
       "كيف تختار مقاس السكراب الطبي",
       "شراء سكراب طبي أونلاين السعودية"
     ],
+    "gscBackedKeywords": [
+      "سكراب طبي رجالي نسائي",
+      "العرب الماسي"
+    ],
+    "canonicalRole": "دليل شراء السكراب الطبي يغذي مباشرة صفحة المنتج (4.82% CTR في GSC) وتصنيف الملابس الداخلية القطنية.",
     "featuredImagePlan": {
       "needsUpload": false,
       "localFilename": null,
       "seoFilename": null,
       "altAr": "سكراب طبي مريح للدوام اليومي في السعودية — العرب الماسي",
       "altEn": "Comfortable medical scrubs guide in Saudi Arabia - Al Arab Al Masi",
-      "note": "يحتفظ بـ featured_media=472 مع إضافة روابط الفروع المعتمدة وخدمة العملاء."
+      "note": "يحتفظ بـ featured_media=472 مع إضافة جدول المعايير وروابط الفروع وخدمة العملاء."
     },
     "fixesApplied": [
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO)."
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف."
     ],
     "metricsBefore": {
       "h2Count": 7,
@@ -260,43 +341,59 @@
       "missingAltCount": 0,
       "storeLinksCount": 2,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": true
     },
     "metricsAfter": {
-      "h2Count": 10,
+      "h2Count": 11,
       "h3Count": 7,
       "imgCount": 0,
       "missingAltCount": 0,
       "storeLinksCount": 10,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-597.html"
+    "htmlFile": "wordpress/articles/post-597.html",
+    "schemaFile": "wordpress/schema/post-597.jsonld"
   },
   {
     "id": 583,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/09/22/%d8%b4%d9%85%d8%a7%d8%ba-%d8%a3%d9%85-%d8%ba%d8%aa%d8%b1%d8%a9%d8%9f-%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%ab%d9%88%d8%a8-%d8%a7%d9%84/",
     "slug": "%d8%b4%d9%85%d8%a7%d8%ba-%d8%a3%d9%85-%d8%ba%d8%aa%d8%b1%d8%a9%d8%9f-%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%ab%d9%88%d8%a8-%d8%a7%d9%84",
     "originalTitle": "شماغ أم غترة؟ دليل الاختيار مع الثوب السعودي",
-    "improvedTitle": "شماغ أم غترة؟ دليل الاختيار والتنسيق مع الثوب السعودي | العرب الماسي",
-    "seoTitle": "الفرق بين الشماغ والغترة وكيف تختار مع الثوب | العرب الماسي",
-    "metaDescription": "مقارنة عملية بين الشماغ والغترة البيضاء مع الثوب السعودي للدوام والمناسبات في السعودية، مع روابط الأشمغة الأصلية (البسام، التاج، فالنتينو، بنتلي) وفروع جدة.",
+    "improvedTitle": "شماغ أم غترة؟ 5 فروق عملية ودليل الاختيار مع الثوب السعودي 2026 | العرب الماسي",
+    "seoTitle": "الفرق بين الشماغ والغترة وأفضل الماركات في السعودية | العرب الماسي",
+    "metaDescription": "مقارنة عملية بين الشماغ الأحمر والأبيض والغترة (الصيفية والشتوية) مع الثوب السعودي: البسام، التاج، المراسيم، فالنتينو، بنتلي ودنهل مع روابط الشراء وفروع جدة.",
     "focusKeywords": [
       "الفرق بين الشماغ والغترة",
       "شماغ أم غترة مع الثوب السعودي",
-      "أشمغة أصلية جدة البسام والتاج",
-      "شراء شماغ أونلاين السعودية"
+      "أفضل ماركة شماغ في السعودية",
+      "شماغ البسام والمراسيم والتاج جدة",
+      "غترة بيضاء وغترة شتوية رجالية"
     ],
+    "gscBackedKeywords": [
+      "شماغ المراسيم",
+      "غترة اللقاء",
+      "غترة شتوية",
+      "شماغ البسام",
+      "ثوب العرب"
+    ],
+    "canonicalRole": "دليل مقارنة الشماغ والغترة المستلهم من المنافسين (جدول فروق + ماركات) يغذي تصنيف /categories/1325316/shemaghs-ghutras-shawls-collection.",
     "featuredImagePlan": {
       "needsUpload": false,
       "localFilename": null,
       "seoFilename": null,
       "altAr": "شماغ وغترة أصلية للتنسيق مع الثوب السعودي — العرب الماسي",
       "altEn": "Saudi shemagh vs ghutra styling guide with thobe - Al Arab Al Masi",
-      "note": "يحتفظ بـ featured_media=586 مع إضافة روابط الفروع والواتساب الرسمي."
+      "note": "يحتفظ بـ featured_media=586 مع إضافة جدول الفروق الـ 5 وروابط الفروع والواتساب."
     },
     "fixesApplied": [
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO)."
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف."
     ],
     "metricsBefore": {
       "h2Count": 7,
@@ -305,45 +402,61 @@
       "missingAltCount": 0,
       "storeLinksCount": 3,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": true
     },
     "metricsAfter": {
-      "h2Count": 10,
-      "h3Count": 10,
+      "h2Count": 11,
+      "h3Count": 11,
       "imgCount": 0,
       "missingAltCount": 0,
       "storeLinksCount": 11,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-583.html"
+    "htmlFile": "wordpress/articles/post-583.html",
+    "schemaFile": "wordpress/schema/post-583.jsonld"
   },
   {
     "id": 572,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/09/22/%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%ab%d9%88%d8%a8%d9%8b%d8%a7-%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%8b%d8%a7-%d8%ac%d8%a7%d9%87%d8%b2%d9%8b%d8%a7-%d9%8a%d9%86%d8%a7%d8%b3%d8%a8-%d9%8a/",
     "slug": "%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%ab%d9%88%d8%a8%d9%8b%d8%a7-%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%8b%d8%a7-%d8%ac%d8%a7%d9%87%d8%b2%d9%8b%d8%a7-%d9%8a%d9%86%d8%a7%d8%b3%d8%a8-%d9%8a",
     "originalTitle": "كيف تختار ثوبًا سعوديًا جاهزًا يناسب يومك ومناسبتك؟",
-    "improvedTitle": "كيف تختار ثوباً سعودياً جاهزاً يناسب دوامك ومناسباتك؟ دليل المقاس والياقة",
-    "seoTitle": "كيف تختار ثوباً سعودياً جاهزاً؟ دليل الياقة والمقاس | العرب الماسي",
-    "metaDescription": "دليل عملي لاختيار الثوب السعودي الجاهز (سادة، قلاب، سحاب مخفي أو أزرار) مع رابط دليل المقاسات والشراء من العرب الماسي وزيارة المعارض الثلاثة في جدة.",
+    "improvedTitle": "كيف تختار ثوباً سعودياً جاهزاً يناسب دوامك ومناسباتك؟ دليل الياقة والمقاس 2026",
+    "seoTitle": "كيف تختار ثوباً سعودياً جاهزاً؟ الياقة القلاب والسادة والمقاس | العرب الماسي",
+    "metaDescription": "دليل اختيار الثوب السعودي الجاهز (ياقة قلاب أم سادة، سحاب مخفي أم أزرار، جدول المقاسات) مع روابط ثوب العرب الجاهز وفروع جدة الثلاثة وأول استبدال مجاني.",
     "focusKeywords": [
       "كيف تختار ثوب سعودي جاهز",
-      "الفرق بين الياقة القلاب والسادة",
-      "ثوب رجالي سحاب مخفي السعودية",
-      "دليل مقاسات الثوب السعودي",
-      "ثوب العرب الماسي جدة"
+      "ثوب جاهز قلاب سحاب مخفي",
+      "الفرق بين الياقة القلاب والسادة في الثوب",
+      "جدول مقاسات الثوب السعودي الرجالي",
+      "ثوب مطرز رجالي سعودي"
     ],
+    "gscBackedKeywords": [
+      "ثوب جاهز",
+      "ثوب العرب",
+      "ثوب مطرز رجالي",
+      "جدول مقاسات الثوب السعودي",
+      "دليل مقاسات الثوب الرجالي",
+      "ثوب كحلي"
+    ],
+    "canonicalRole": "دليل اختيار الثوب الجاهز على ووردبريس يغذي مباشرة صفحة تصنيف /categories/1325330/saudi-mens-thobes (3,864 ظهور) ودليل المقاسات.",
     "featuredImagePlan": {
       "needsUpload": false,
       "localFilename": "saudi-occasion-look-guide.jpg",
       "seoFilename": "saudi-ready-thobe-guide-alarabalmasi.webp",
       "altAr": "صورة تحريرية لثوب سعودي أبيض مرتب مع مستلزماته الرسمية — دليل اختيار الثوب الجاهز من العرب الماسي",
       "altEn": "Editorial guide image for choosing a ready-made Saudi white thobe - Al Arab Al Masi",
-      "note": "المقال يملك featured_media=537؛ يمكن إضافة الصورة التحريرية كصورة داخلية بعد العنوان الثاني."
+      "note": "يحتفظ بـ featured_media=537 مع تصحيح الخطأ الإملائي وإضافة جدول المقارنة وروابط الفروع."
     },
     "fixesApplied": [
       "تصحيح الخطأ الإملائي في افتتاحية المقال («ختر الثوب» ← «اختر الثوب»).",
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO)."
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف."
     ],
     "metricsBefore": {
       "h2Count": 7,
@@ -352,34 +465,46 @@
       "missingAltCount": 0,
       "storeLinksCount": 4,
       "hasWhatsApp": false,
-      "hasMaps": false
+      "hasMaps": false,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": true
     },
     "metricsAfter": {
-      "h2Count": 10,
+      "h2Count": 11,
       "h3Count": 11,
       "imgCount": 0,
       "missingAltCount": 0,
-      "storeLinksCount": 13,
+      "storeLinksCount": 14,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-572.html"
+    "htmlFile": "wordpress/articles/post-572.html",
+    "schemaFile": "wordpress/schema/post-572.jsonld"
   },
   {
     "id": 533,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/08/24/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%af%d9%81%d8%a9-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%a8%d8%ac%d8%af%d8%a9-%d8%a3%d9%81%d8%ae%d9%85-%d9%85%d8%ad%d9%84-%d9%85/",
     "slug": "%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%af%d9%81%d8%a9-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%a8%d8%ac%d8%af%d8%a9-%d8%a3%d9%81%d8%ae%d9%85-%d9%85%d8%ad%d9%84-%d9%85",
     "originalTitle": "مركز الدفة سوق المرجان بجدة | أفخم محل ملابس ومستلزمات رجالية بوابة 2",
-    "improvedTitle": "مركز الدفة سوق المرجان بجدة (بوابة 2 محل 205) | ثياب ومشالح وهدايا",
-    "seoTitle": "مركز الدفة سوق المرجان جدة بوابة 2 محل 205 | مستلزمات رجالية",
-    "metaDescription": "موقع وتفاصيل مركز الدفة للمستلزمات الرجالية داخل سوق المرجان بحي الصفا جدة بوابة 2 محل 205: ثياب رجالية وولادية، جلابيات مغربية، مشالح وهدايا. واتساب 0558977126.",
+    "improvedTitle": "مركز الدفة سوق المرجان بجدة (بوابة 2 محل 205) | ثياب وجلابيات مغربية وهدايا",
+    "seoTitle": "مركز الدفة سوق المرجان جدة بوابة 2 محل 205 | ثياب وجلابيات وهدايا",
+    "metaDescription": "دليل مركز الدفة للمستلزمات الرجالية داخل سوق المرجان بحي الصفا جدة بوابة 2 محل 205: ثياب رجالية وولادية، جلابيات مغربية، مشالح وأطقم هدايا. واتساب 0558977126.",
     "focusKeywords": [
       "مركز الدفة سوق المرجان جدة",
       "محل مستلزمات رجالية سوق المرجان بوابة 2",
+      "جلابيات مغربية رجالية جدة سوق المرجان",
       "ثياب رجالية حي الصفا جدة",
-      "جلابيات مغربية رجالية سوق المرجان",
-      "أطقم هدايا رجالية جدة الصفا"
+      "هدايا رجالية جدة الصفا"
     ],
+    "gscBackedKeywords": [
+      "جلابية مغربية رجالية",
+      "جلابيات مغربية رجالية فاخرة",
+      "هدايا رجالية جدة",
+      "شراقي"
+    ],
+    "canonicalRole": "مقال داعم محلي (Local SEO) يغذي صفحة فرع سوق المرجان /pages/aldaffah-al-safa-marjan-jeddah وتصنيف الجلابيات والهدايا.",
     "featuredImagePlan": {
       "needsUpload": true,
       "localFilename": "aldaffah-almarjan-jeddah.jpg",
@@ -391,7 +516,9 @@
     "fixesApplied": [
       "ترقية 20 عنواناً إلى وسوم H2/H3 الدلالية (Gutenberg) لتحسين هيكلة SEO وسهولة القراءة على الجوال.",
       "إضافة وصف بديل (ALT) عربي دقيق ومميز لـ 25 صورة داخل المقال مع الحفاظ على الصور الأصلية.",
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO).",
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف.",
       "تجهيز صورة غلاف تحريرية جديدة (aldaffah-almarjan-jeddah.webp) مع ALT عربي وإنجليزي (صورة غلاف تحريرية تعويضاً عن غياب Featured Image (featured_media=0).)."
     ],
     "metricsBefore": {
@@ -401,34 +528,46 @@
       "missingAltCount": 25,
       "storeLinksCount": 1,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": false
     },
     "metricsAfter": {
-      "h2Count": 18,
+      "h2Count": 19,
       "h3Count": 9,
       "imgCount": 26,
       "missingAltCount": 0,
       "storeLinksCount": 9,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-533.html"
+    "htmlFile": "wordpress/articles/post-533.html",
+    "schemaFile": "wordpress/schema/post-533.jsonld"
   },
   {
     "id": 486,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/08/24/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%af%d9%81%d8%a9-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%ad%d9%8a-%d8%a7%d9%84/",
     "slug": "%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%af%d9%81%d8%a9-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%ad%d9%8a-%d8%a7%d9%84",
     "originalTitle": "مركز الدفة للمستلزمات الرجالية بحي السامر جدة | ثوب العرب والزي المكتمل",
-    "improvedTitle": "مركز الدفة للمستلزمات الرجالية بحي السامر جدة | ثوب العرب والشرقيات",
-    "seoTitle": "مركز الدفة حي السامر جدة | ثياب رجالية وأشمغة وشرقيات",
-    "metaDescription": "دليل زيارة مركز الدفة للمستلزمات الرجالية في حي السامر بجدة بجوار بنك البلاد: ثياب رجالية وولادية، أشمغة وغتر، أحذية شرقية، وموقع الخريطة وواتساب 0561560303.",
+    "improvedTitle": "مركز الدفة للمستلزمات الرجالية بحي السامر جدة | ثوب العرب والشرقيات والأشمغة",
+    "seoTitle": "مركز الدفة حي السامر جدة | ثياب جاهزة وأشمغة وأحذية شرقية",
+    "metaDescription": "دليل زيارة مركز الدفة بحي السامر جدة (بجوار بنك البلاد): ثياب رجالية وولادية سادة وقلاب، طاقية الدفة، أشمغة وغتر، شرقيات وملابس داخلية. واتساب 0561560303.",
     "focusKeywords": [
       "مركز الدفة حي السامر جدة",
       "محل مستلزمات رجالية شارع وهيب بن عمير",
       "ثياب جاهزة رجالي وولادي جدة",
-      "أحذية شرقية جدة حي السامر",
+      "أحذية شرقية شراقي جدة حي السامر",
       "الدفة للمستلزمات الرجالية جدة"
     ],
+    "gscBackedKeywords": [
+      "طاقية الدفة",
+      "شراقي",
+      "ثوب جاهز",
+      "ثياب ولادي"
+    ],
+    "canonicalRole": "مقال داعم محلي (Local SEO) يغذي صفحة الفرع الرسمية /pages/aldaffah-al-samer-jeddah وتصنيف الشرقيات والثياب الولادية.",
     "featuredImagePlan": {
       "needsUpload": true,
       "localFilename": "aldaffah-alsamer-jeddah.jpg",
@@ -440,7 +579,9 @@
     "fixesApplied": [
       "ترقية 24 عنواناً إلى وسوم H2/H3 الدلالية (Gutenberg) لتحسين هيكلة SEO وسهولة القراءة على الجوال.",
       "إضافة وصف بديل (ALT) عربي دقيق ومميز لـ 16 صورة داخل المقال مع الحفاظ على الصور الأصلية.",
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO).",
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف.",
       "تجهيز صورة غلاف تحريرية جديدة (aldaffah-alsamer-jeddah.webp) مع ALT عربي وإنجليزي (صورة غلاف تحريرية تعويضاً عن غياب Featured Image (featured_media=0).)."
     ],
     "metricsBefore": {
@@ -450,34 +591,46 @@
       "missingAltCount": 16,
       "storeLinksCount": 1,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": false
     },
     "metricsAfter": {
-      "h2Count": 23,
+      "h2Count": 24,
       "h3Count": 8,
       "imgCount": 17,
       "missingAltCount": 0,
       "storeLinksCount": 9,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-486.html"
+    "htmlFile": "wordpress/articles/post-486.html",
+    "schemaFile": "wordpress/schema/post-486.jsonld"
   },
   {
     "id": 465,
     "originalUrl": "https://alarabmsa19.wordpress.com/2026/08/24/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%ac%d8%af%d8%a9/",
     "slug": "%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%ac%d8%af%d8%a9",
     "originalTitle": "مركز السالم للمستلزمات الرجالية بجدة | أفخم محل ثياب وأشمغة ومستلزمات بحي السامر",
-    "improvedTitle": "مركز السالم للمستلزمات الرجالية بحي السامر جدة | ثوب العرب والأشمغة",
+    "improvedTitle": "مركز السالم للمستلزمات الرجالية بحي السامر جدة | العنوان والموقع وأوقات العمل",
     "seoTitle": "مركز السالم للمستلزمات الرجالية حي السامر جدة | العرب الماسي",
-    "metaDescription": "عنوان وموقع مركز السالم للمستلزمات الرجالية في حي السامر بجدة أمام قاعة الرفيدي: ثوب العرب، الأشمغة الأصلية، المشالح، واتساب 0539939530 واستلام طلبات المتجر.",
+    "metaDescription": "موقع وأوقات عمل مركز السالم للمستلزمات الرجالية بحي السامر جدة أمام قاعة الرفيدي: ثوب العرب الجاهز، الأشمغة الأصلية، المشالح، واتساب 0539939530 واستلام الأونلاين.",
     "focusKeywords": [
       "مركز السالم للمستلزمات الرجالية جدة",
       "محل ثياب حي السامر جدة",
       "ثوب العرب جدة السامر",
-      "أشمغة أصلية حي السامر",
+      "أشمغة أصلية حي السامر جدة",
       "استلام طلبات العرب الماسي جدة"
     ],
+    "gscBackedKeywords": [
+      "السالم للمستلزمات الرجالية",
+      "ثوب العرب",
+      "ثوب جاهز",
+      "مشلح اسود ذهبي"
+    ],
+    "canonicalRole": "مقال داعم محلي (Local SEO) يغذي صفحة الفرع الرسمية /pages/alsalem-menswear-jeddah وتصنيف الثياب.",
     "featuredImagePlan": {
       "needsUpload": true,
       "localFilename": "alsalem-menswear-alsamer-jeddah.jpg",
@@ -489,7 +642,9 @@
     "fixesApplied": [
       "ترقية 20 عنواناً إلى وسوم H2/H3 الدلالية (Gutenberg) لتحسين هيكلة SEO وسهولة القراءة على الجوال.",
       "إضافة وصف بديل (ALT) عربي دقيق ومميز لـ 12 صورة داخل المقال مع الحفاظ على الصور الأصلية.",
-      "إضافة قسم روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ قابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO).",
+      "إضافة صندوق «الخلاصة السريعة» القابل للاقتباس في محركات الذكاء الاصطناعي (GEO/AEO) في أعلى المقال.",
+      "إضافة جدول مقارنة عملي مستلهم من أفضل المقالات المنافسة في السعودية ومدعوم بكلمات Search Console الفعلية.",
+      "إضافة روابط التصنيفات الموثقة (HTTP 200) + مواقع الفروع في جدة مع خرائط Google وأرقام الواتساب + قسم FAQ + ملف Schema JSON-LD نظيف.",
       "تجهيز صورة غلاف تحريرية جديدة (alsalem-menswear-alsamer-jeddah.webp) مع ALT عربي وإنجليزي (صورة غلاف تحريرية تعويضاً عن غياب Featured Image (featured_media=0).)."
     ],
     "metricsBefore": {
@@ -499,17 +654,22 @@
       "missingAltCount": 12,
       "storeLinksCount": 1,
       "hasWhatsApp": false,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": false,
+      "hasComparisonTable": false
     },
     "metricsAfter": {
-      "h2Count": 18,
+      "h2Count": 19,
       "h3Count": 9,
       "imgCount": 13,
       "missingAltCount": 0,
       "storeLinksCount": 9,
       "hasWhatsApp": true,
-      "hasMaps": true
+      "hasMaps": true,
+      "hasGeoDirectAnswer": true,
+      "hasComparisonTable": true
     },
-    "htmlFile": "wordpress/articles/post-465.html"
+    "htmlFile": "wordpress/articles/post-465.html",
+    "schemaFile": "wordpress/schema/post-465.jsonld"
   }
 ]

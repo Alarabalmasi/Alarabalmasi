@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://alarabalmasi.com/#organization",
+      "name": "العرب الماسي | Al Arab Al Masi",
+      "legalName": "مؤسسة العرب الماسي للتجارة",
+      "url": "https://alarabalmasi.com/",
+      "telephone": "+966539939570",
+      "identifier": [
+        { "@type": "PropertyValue", "name": "السجل التجاري", "value": "4030113177" },
+        { "@type": "PropertyValue", "name": "الرقم الوطني الموحد", "value": "7015089399" },
+        { "@type": "PropertyValue", "name": "توثيق المركز السعودي للأعمال", "value": "0000341910" },
+        { "@type": "PropertyValue", "name": "العلامة التجارية المسجلة", "value": "TM-01-00-34943-26" }
+      ],
+      "sameAs": [
+        "https://www.instagram.com/Alarabalmasi",
+        "https://www.tiktok.com/@alarabalmasi",
+        "https://www.snapchat.com/add/Alarabalmasi",
+        "https://x.com/alarabalmasi"
+      ]
+    },
+    {
+      "@type": "ClothingStore",
+      "@id": "https://alarabalmasi.com/pages/alsalem-menswear-jeddah#store",
+      "name": "مركز السالم للمستلزمات الرجالية — حي السامر جدة",
+      "url": "https://alarabalmasi.com/pages/alsalem-menswear-jeddah",
+      "telephone": "+966539939530",
+      "hasMap": "https://maps.app.goo.gl/Uf5xzkMGYXrNcyy57?g_st=ic",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "حي السامر، شارع وهيب بن عمير، أمام قاعة الرفيدي",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "addressCountry": "SA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.589247861474387,
+        "longitude": 39.23759110271931
+      },
+      "parentOrganization": { "@id": "https://alarabalmasi.com/#organization" }
+    },
+    {
+      "@type": "ClothingStore",
+      "@id": "https://alarabalmasi.com/pages/aldaffah-al-samer-jeddah#store",
+      "name": "مركز الدفة للمستلزمات الرجالية — حي السامر جدة",
+      "url": "https://alarabalmasi.com/pages/aldaffah-al-samer-jeddah",
+      "telephone": "+966561560303",
+      "hasMap": "https://www.google.com/maps/place/21.5911511,39.2365084",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "حي السامر، شارع وهيب بن عمير، بجوار بنك البلاد",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "addressCountry": "SA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5911511,
+        "longitude": 39.2365084
+      },
+      "parentOrganization": { "@id": "https://alarabalmasi.com/#organization" }
+    },
+    {
+      "@type": "ClothingStore",
+      "@id": "https://alarabalmasi.com/pages/aldaffah-al-safa-marjan-jeddah#store",
+      "name": "مركز الدفة للمستلزمات الرجالية — سوق المرجان جدة",
+      "url": "https://alarabalmasi.com/pages/aldaffah-al-safa-marjan-jeddah",
+      "telephone": "+966558977126",
+      "hasMap": "https://www.google.com/maps/place/21.5802312,39.2233659",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "حي الصفا، داخل سوق المرجان، بوابة 2، محل رقم 205",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "addressCountry": "SA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5802312,
+        "longitude": 39.2233659
+      },
+      "parentOrganization": { "@id": "https://alarabalmasi.com/#organization" }
+    }
+  ]
+}

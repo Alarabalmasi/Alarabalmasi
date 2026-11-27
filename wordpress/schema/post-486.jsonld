@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "مركز الدفة للمستلزمات الرجالية بحي السامر جدة | ثوب العرب والشرقيات والأشمغة",
+      "description": "دليل زيارة مركز الدفة بحي السامر جدة (بجوار بنك البلاد): ثياب رجالية وولادية سادة وقلاب، طاقية الدفة، أشمغة وغتر، شرقيات وملابس داخلية. واتساب 0561560303.",
+      "inLanguage": "ar-SA",
+      "mainEntityOfPage": "https://alarabmsa19.wordpress.com/2026/08/24/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%af%d9%81%d8%a9-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%ad%d9%8a-%d8%a7%d9%84/",
+      "datePublished": "2026-08-24T05:03:01",
+      "dateModified": "2026-11-27",
+      "keywords": "مركز الدفة حي السامر جدة, محل مستلزمات رجالية شارع وهيب بن عمير, ثياب جاهزة رجالي وولادي جدة, أحذية شرقية شراقي جدة حي السامر, الدفة للمستلزمات الرجالية جدة, طاقية الدفة, شراقي, ثوب جاهز, ثياب ولادي",
+      "author": {
+        "@type": "Organization",
+        "name": "العرب الماسي",
+        "url": "https://alarabalmasi.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "مؤسسة العرب الماسي للتجارة",
+        "url": "https://alarabalmasi.com/"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "أين يقع مركز الدفة في حي السامر بجدة؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "يقع على شارع وهيب بن عمير في حي السامر بجدة بجوار بنك البلاد مباشرة، ورقم الواتساب الرسمي للفرع 0561560303 وحسابه @aldaffahsa1."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ما الفرق بين مركز الدفة حي السامر ومركز الدفة سوق المرجان؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "فرع الدفة السامر يقع على شارع وهيب بن عمير بجوار بنك البلاد (0561560303 / @aldaffahsa1)، بينما فرع الدفة المرجان يقع بحي الصفا داخل سوق المرجان بوابة 2 محل 205 (0558977126 / @aldaffahsa)، ولكل منهما مخزون مستقل."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "هل تتوفر أحذية شرقية (شراقي) وثياب ولادية في فرع الدفة السامر؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "نعم، تتوفر تشكيلات الثياب الرجالية والولادية والأحذية الشرقية والملابس الداخلية، ويُنصح بتأكيد المقاس عبر واتساب الفرع قبل الزيارة."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ClothingStore",
+      "name": "مركز الدفة للمستلزمات الرجالية — حي السامر، جدة",
+      "url": "https://alarabalmasi.com/pages/aldaffah-al-samer-jeddah",
+      "telephone": "+966561560303",
+      "hasMap": "https://www.google.com/maps/place/21.5911511,39.2365084",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "جدة، حي السامر، شارع وهيب بن عمير، بجوار بنك البلاد مباشرة",
+        "addressLocality": "جدة",
+        "addressCountry": "SA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5911511,
+        "longitude": 39.2365084
+      },
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": "العرب الماسي",
+        "url": "https://alarabalmasi.com/"
+      }
+    }
+  ]
+}
